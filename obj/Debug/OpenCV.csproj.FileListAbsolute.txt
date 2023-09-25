@@ -1,0 +1,163 @@
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\bin\Debug\OpenCV.exe
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\bin\Debug\OpenCV.pdb
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.csproj.GenerateResource.Cache
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.exe
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.pdb
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.pdb
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\ResGen.read.1.tlog
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\ResGen.write.1.tlog
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\bin\Debug\OpenCV.exe
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\LogicInside\LIOpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.pdb
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\bin\Debug\OpenCV.exe
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\ResGen.read.1.tlog
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIOpenCV\OpenCV\OpenCV\OpenCV\obj\Debug\ResGen.write.1.tlog
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\OpenCV.pdb
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\bin\Debug\OpenCV.exe
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\ResGen.read.1.tlog
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIOpenCV\OpenCV Templets\OpenCV C#.NET\OpenCV\obj\Debug\ResGen.write.1.tlog
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\OpenCV.exe
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\OpenCV.pdb
+D:\OpenCV\OpenCV C#.NET\OpenCV\bin\Debug\OpenCV.exe
+D:\OpenCV\OpenCV C#.NET\OpenCV\bin\Debug\OpenCV.pdb
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\ResGen.read.1.tlog
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\OpenCV\OpenCV C#.NET\OpenCV\obj\Debug\ResGen.write.1.tlog
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.exe
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.pdb
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResGen.read.1.tlog
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResGen.write.1.tlog
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\bin\Debug\OpenCV.exe
+D:\OpenCV\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\bin\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResGen.read.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResGen.write.1.tlog
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.exe
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.pdb
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\bin\Debug\OpenCV.exe
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\bin\Debug\OpenCV.pdb
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResGen.read.1.tlog
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector\OpenCV\obj\Debug\ResGen.write.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\bin\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\ResGen.read.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\TLD\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\ResGen.write.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\bin\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\bin\Debug\ZedGraph.dll
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV 64 2.2 C#.NET Object Detector - Memory Final\OpenCV\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\R&D\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\OpenCV.pdb
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\OpenCV.exe
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\OpenCV.pdb
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\bin\Debug\OpenCV.exe
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\bin\Debug\OpenCV.pdb
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\bin\Debug\ZedGraph.dll
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture\OpenCV\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\obj\Debug\OpenCV.exe
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\obj\Debug\OpenCV.pdb
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\bin\Debug\OpenCV.exe
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\bin\Debug\OpenCV.pdb
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\bin\Debug\ZedGraph.dll
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture - Copy\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\OpenCV.exe
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\ZedGraph.dll
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\GenerateResource.read.1.tlog
+D:\LogicInside\LIKnowledgeBase\OpenCV\Modules\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.exe
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.pdb
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\OpenCV.exe
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\OpenCV.pdb
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\ZedGraph.dll
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.csprojResolveAssemblyReference.cache
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.frmMain.resources
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+D:\LogicInside\LIPraticals\OpenCV\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.csproj.GenerateResource.Cache
+F:\Color\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.exe
+F:\Color\OpenCV x86 2.4.2 C#.NET Hand Gesture Final\OpenCV\obj\Debug\OpenCV.pdb
+F:\Color\CCC\OpenCV\obj\Debug\OpenCV.exe
+F:\Color\CCC\OpenCV\obj\Debug\OpenCV.pdb
+F:\Color\CCC\obj\Debug\OpenCV.exe
+F:\Color\CCC\obj\Debug\OpenCV.pdb

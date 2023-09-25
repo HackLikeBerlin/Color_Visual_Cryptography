@@ -1,0 +1,93 @@
+F:\Color\CCC\obj\Debug\ResolveAssemblyReference.cache
+F:\Color\CCC\obj\Debug\GenerateResource.read.1.tlog
+F:\Color\CCC\obj\Debug\GenerateResource.write.1.tlog
+F:\Color\CCC\bin\Debug\CCC.exe
+F:\Color\CCC\bin\Debug\CCC.pdb
+F:\Color\CCC\obj\Debug\CCC.Properties.Resources.resources
+F:\Color\CCC\obj\Debug\CCC.exe
+F:\Color\CCC\obj\Debug\CCC.pdb
+F:\Color\CCC\obj\Debug\CCC.frmEncode.resources
+F:\Color\CCC\obj\Debug\CCC.frmMain.resources
+F:\Color\CCC\obj\Debug\CCC.frmDecode.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\obj\Debug\CCC.exe
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\obj\Debug\CCC.pdb
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\bin\Debug\CCC.exe
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\bin\Debug\CCC.pdb
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\obj\Debug\CCC.frmDecode.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\obj\Debug\CCC.frmEncode.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\obj\Debug\CCC.frmMain.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\obj\Debug\CCC.Properties.Resources.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC\obj\Debug\CCC.csproj.GenerateResource.Cache
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\obj\Debug\CCC.exe
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\obj\Debug\CCC.pdb
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\bin\Debug\CCC.exe
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\bin\Debug\CCC.pdb
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\obj\Debug\CCC.frmDecode.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\obj\Debug\CCC.frmEncode.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\obj\Debug\CCC.frmMain.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\obj\Debug\CCC.Properties.Resources.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Experiment\CCC\obj\Debug\CCC.csproj.GenerateResource.Cache
+I:\Experiment\CCC\obj\Debug\CCC.exe
+I:\Experiment\CCC\obj\Debug\CCC.pdb
+I:\Experiment\CCC\bin\Debug\CCC.exe
+I:\Experiment\CCC\bin\Debug\CCC.pdb
+I:\Experiment\CCC\obj\Debug\ResolveAssemblyReference.cache
+I:\Experiment\CCC\obj\Debug\CCC.frmDecode.resources
+I:\Experiment\CCC\obj\Debug\CCC.frmEncode.resources
+I:\Experiment\CCC\obj\Debug\CCC.frmMain.resources
+I:\Experiment\CCC\obj\Debug\CCC.Properties.Resources.resources
+I:\Experiment\CCC\obj\Debug\GenerateResource.read.1.tlog
+I:\Experiment\CCC\obj\Debug\GenerateResource.write.1.tlog
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\obj\Debug\CCC.exe
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\obj\Debug\CCC.pdb
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\bin\Debug\CCC.exe
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\bin\Debug\CCC.pdb
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\obj\Debug\CCC.frmDecode.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\obj\Debug\CCC.frmEncode.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\obj\Debug\CCC.frmMain.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\obj\Debug\CCC.Properties.Resources.resources
+D:\LogicInside\LIProjects 12-13\LIP#292\Color\CCC Final\obj\Debug\CCC.csproj.GenerateResource.Cache
+D:\LogicInside\LIProjects\LIP#292\Color\CCC Final\obj\Debug\CCC.exe
+D:\LogicInside\LIProjects\LIP#292\Color\CCC Final\obj\Debug\CCC.pdb
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\obj\Debug\CCC.exe
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\obj\Debug\CCC.pdb
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\bin\Debug\CCC.exe
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\bin\Debug\CCC.pdb
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\obj\Debug\CCC.csprojResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\obj\Debug\CCC.frmDecode.resources
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\obj\Debug\CCC.frmEncode.resources
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\obj\Debug\CCC.frmMain.resources
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\obj\Debug\CCC.Properties.Resources.resources
+D:\LogicInside\LIGroups 13-14\LIG#809\CCC Final\obj\Debug\CCC.csproj.GenerateResource.Cache
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\obj\Debug\CCC.exe
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\obj\Debug\CCC.pdb
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\bin\Debug\CCC.exe
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\bin\Debug\CCC.pdb
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\obj\Debug\CCC.csprojResolveAssemblyReference.cache
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\obj\Debug\CCC.frmDecode.resources
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\obj\Debug\CCC.frmEncode.resources
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\obj\Debug\CCC.frmMain.resources
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\obj\Debug\CCC.Properties.Resources.resources
+D:\LogicInside\LIProjects\LIP#292\Code\C#.NET Cryptography\obj\Debug\CCC.csproj.GenerateResource.Cache
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\CCC.exe
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\CCC.pdb
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\ResolveAssemblyReference.cache
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\CCC.frmDecode.resources
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\CCC.frmEncode.resources
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\CCC.frmMain.resources
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\CCC.Properties.Resources.resources
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\GenerateResource.read.1.tlog
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\obj\Debug\GenerateResource.write.1.tlog
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\bin\Debug\CCC.exe
+I:\Pending Works\Visual Cryptography\C#.NET Cryptography\bin\Debug\CCC.pdb
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\CCC.exe
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\CCC.pdb
+I:\Pending Works\Visual Cryptography\C#.NET 1\bin\Debug\CCC.exe
+I:\Pending Works\Visual Cryptography\C#.NET 1\bin\Debug\CCC.pdb
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\ResolveAssemblyReference.cache
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\CCC.frmDecode.resources
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\CCC.frmEncode.resources
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\CCC.frmMain.resources
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\CCC.Properties.Resources.resources
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\GenerateResource.read.1.tlog
+I:\Pending Works\Visual Cryptography\C#.NET 1\obj\Debug\GenerateResource.write.1.tlog

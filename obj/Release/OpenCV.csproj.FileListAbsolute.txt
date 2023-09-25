@@ -1,0 +1,4 @@
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Release\ResolveAssemblyReference.cache
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Release\WindowsFormsApplication1.frmMain.resources
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\OpenCV\C#.net OpenCV\OpenCV\OpenCV\obj\Release\OpenCV.csproj.GenerateResource.Cache
